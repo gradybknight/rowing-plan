@@ -18,7 +18,7 @@
 ## Goals (in ranked order)
 
 - Build speed on the water in a single scull, targeting fall 2026 head races
-- Increase strength using the tonal weight system. This should focus on rowing specific strength but also include "vanity" lifts as the athlete would like to increase chest and shoulder size
+- Increase strength using the tonal weight system. This should focus on rowing specific strength but also include "vanity" lifts.
 
 ## Plan constraints
 
